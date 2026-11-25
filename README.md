@@ -148,9 +148,9 @@ Basic SpeedBoost Example
 Basic code
 
    
-        GTPlayer.Instance.maxJumpSpeed = 9f; //This is saying that it changed the Players maxspeed making it faster as GTPlayer is saying the player and instance finds stuff in GTPlayer and you can change the value of the maxspeed
-  
-     
+        GTPlayer.Instance.maxJumpSpeed = 9f; 
+      
+//This is saying that it changed the Players maxspeed making it faster as GTPlayer is saying the player and instance finds stuff in GTPlayer and you can change the value of the maxspeed
 
 # To contact me through these if you need help with anything
 Discord ID: 
