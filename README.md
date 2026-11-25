@@ -111,9 +111,9 @@ Sakuraa Pricing
                     
 Subscriptions  | Pricing
 ------------- | -------------
-Content Cell  | 6.99
-Content Cell  | $9.99 
-Content Cell  | $15.99 
+Basic Pack  | 6.99
+Creator Pack  | $9.99 
+Master Pack  | $15.99 
 
 2. [Excalibur Client](https://excaliburgtag.com/)
 Free version but also pretty expensive and also requires discord
