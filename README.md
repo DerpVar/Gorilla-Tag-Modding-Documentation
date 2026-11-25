@@ -41,7 +41,7 @@ Linux: Supported
 
 4. [Beplnex.Cat Coming Soon]()
 
-5. [PowerShell Installation](https://github.com/TahoeGitCo/Gorilla-Tag-PowerShell/blob/main/Beplnex.bat)
+5. [PowerShell Installation](https://github.com/DerpVar/Beplnex-Gorilla-Tag/blob/main/Beplnex.bat)
 ```bash
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/TahoeGitCo/Gorilla-Tag-PowerShell/main/Beplnex.bat" -OutFile "$env:TEMP\Beplnex.bat"
 Unblock-File "$env:TEMP\Beplnex.bat"
