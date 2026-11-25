@@ -133,7 +133,7 @@ If you wanna make your own mods there is some great templates out there but most
 
 Im just gonna show you some basic stuff since im not a great coder in C# but for gorilla tag theres lots of stuff.
 
-####What is GTPlayer?
+#What is GTPlayer?
 
 GTPlayer is basically the player position and rotation of ur gorilla tag player and stores just movement value and movement etc.
 
