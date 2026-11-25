@@ -144,12 +144,9 @@ instance is basically the object u wanna access from the GTPlayer so for example
 Basic SpeedBoost Example
 
 ### Basic speedboost example 
-
-Basic code
-
-   
+```javascript
         GTPlayer.Instance.maxJumpSpeed = 9f; 
-      
+```
 //This is saying that it changed the Players maxspeed making it faster as GTPlayer is saying the player and instance finds stuff in GTPlayer and you can change the value of the maxspeed
 
 # To contact me through these if you need help with anything
