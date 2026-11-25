@@ -105,9 +105,9 @@ WARNING USING ILLEGAL MENUS COULD GET YOU BAN PEOPLE WHO HAS MADE THE MENUS AND 
 
 Gorilla Tag Clients are legal because they do not give you any advantage in game and mostly contain shaders client sided mods camera or mod checker they are all paid but some are free 
 
-1. [Sakuraa Client](https://https://gtagcamera.com/)
+1. [Sakuraa Client](https://gtagcamera.com/)
                     
-###[Sakuraa Pricing](https://https://gtagcamera.com/)
+Sakuraa Pricing
                     
 Subscriptions  | Pricing
 ------------- | -------------
@@ -118,7 +118,7 @@ Content Cell  | $15.99
 2. [Excalibur Client](https://excaliburgtag.com/)
 Free version but also pretty expensive and also requires discord
                     
-###[Excalibur Pricing](https://excaliburgtag.com/pricing)
+Excalibur Pricing
                     
 Subscriptions  | Pricing
 ------------- | -------------
