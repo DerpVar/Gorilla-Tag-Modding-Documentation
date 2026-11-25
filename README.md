@@ -128,6 +128,30 @@ Pro+  | $14.99
 
 When you buy both of these link ur discord and join their discord
 
+# How to Develop your own mods
+If you wanna make your own mods there is some great templates out there but mostly illegal menu templates so you can choose which one you want to for example like [Malachi Template]() Which is a pretty basic customizable template but how do you code you own mods?
+
+Im just gonna show you some basic stuff since im not a great coder in C# but for gorilla tag theres lots of stuff.
+
+####What is GTPlayer?
+
+GTPlayer is basically the player position and rotation of ur gorilla tag player and stores just movement value and movement etc.
+
+Now what is instance?
+
+instance is basically the object u wanna access from the GTPlayer so for example if you wanted to make a speedboost code it would kinda be like this.
+
+Basic SpeedBoost Example
+
+### Basic speedboost example 
+
+Basic code
+
+   
+        GTPlayer.Instance.maxJumpSpeed = 9f; //This is saying that it changed the Players maxspeed making it faster as GTPlayer is saying the player and instance finds stuff in GTPlayer and you can change the value of the maxspeed
+  
+     
+
 # To contact me through these if you need help with anything
 Discord ID: 
 ```bash
