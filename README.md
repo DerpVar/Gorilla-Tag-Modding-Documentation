@@ -17,22 +17,35 @@ In order for you to get gorilla tag your gonna need to buy it on steam obvisuall
 # Ways to install Beplnex
 
 1. [Simple Mod Manager](https://github.com/ItzGameDev/Simple-Mod-Manager/releases)
+
 Author: ItzGames
+
 Windows: Supported
+
 Mac: Not Supported
+
 Linux: Supported
+
 [Tutorial](https://www.youtube.com/watch?v=6rtqkNOtJV8&t=3s) 
 
 2. [MonkeModManager](https://github.com/NgbatzYT/MonkeModManager/releases/) 
+
 Author: NgBatz
+
 Windows: Supported
+
 Mac: Not Supported
+
 Linux: Not Supported
 
 3. [Sevs Mod Manager](https://github.com/sevvy-wevvy/sevs-mod-manager/releases/)
+
 Author: Sev
+
 Windows: Supported
+
 Mac: Supported
+
 Linux: Supported
 
 4. [Beplnex.Cat Coming Soon]()
