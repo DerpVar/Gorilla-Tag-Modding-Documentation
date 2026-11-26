@@ -4,7 +4,7 @@ Gorilla Tag Modding is actually very simple as it seems and there's many ways to
 
 The way mods can be installed is something called Beplnex which is a modding plugin framework that is completely opensourced. You can install this manually but is recommended to use the Managers instead of manual install but it is ur choice
 
-I AM NOT RESPONSIBLE FOR YOUR BANS AND NEITHER ARE THE MOD DEVELOPERS IT IS AT YOUR OWN RISK
+If you have gotten banned by using a illegal mod menu the developers are not at fault as its a illegal mods however if the mod is legal or doesnt give any advantage in game you are fine as Another Axiom doesnt care as long as you don't use a illegal mod menu in gorilla tag so stuff like  DeckOS or sakuraa client is legal because doesnt give any advantage besides music players mod checker and client sided sandboxing so doesnt give advantages however DeckOS is recommended in private lobbies
 
 
 # Buy Gorilla tag
@@ -71,6 +71,8 @@ Put the mod that u got for example a .dll file and drag go to your plugins folde
 MonkeForge is based on curseforge a manager where you can install minecraft mods easily this is just a gorilla tag version you would like to see the website click this --->[MonkeForge](https://monkeforge.org/browse?sort=newest&page=1&limit=12) Monkeforge has legal mods but if you would want illegal mods checks the next part.
 
 # Illegal Menus/Loaders
+*WARNING THIS CAN GET YOU BAN AND CREATORS OF THESE MENUS ARE NOT RESPONSIBLE NO MATTER WHAT YOU DO*
+
 If you want a gorilla tag menu which is illegal the way to find menus is through youtube or recommend by someone but one way to get them is from Loaders that inject the menu mid game
 
 1. [Wyvern](https://wyvern.software)
