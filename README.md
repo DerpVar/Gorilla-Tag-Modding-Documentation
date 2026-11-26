@@ -127,7 +127,7 @@ Sakuraa Pricing
                     
 Subscriptions  | Pricing
 ------------- | -------------
-Basic Pack  | 6.99
+Basic Pack  | $6.99
 Creator Pack  | $9.99 
 Master Pack  | $15.99 
 
