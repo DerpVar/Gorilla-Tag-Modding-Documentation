@@ -16,7 +16,7 @@ In order for you to get gorilla tag your gonna need to buy it on steam obvisuall
 
 # Ways to install Beplnex
 
-1. [Simple Mod Manager](https://github.com/ItzGameDev/Simple-Mod-Manager/releases)
+1. [Simple Mod Manager](https://github.com/ItzGameDev/Simple-Mod-Manager/releases) I recommend
 
 Author: ItzGames
 
