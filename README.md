@@ -28,7 +28,7 @@ Linux: Supported
 
 [Tutorial](https://www.youtube.com/watch?v=6rtqkNOtJV8&t=3s) 
 
-2. [MonkeModManager](https://github.com/NgbatzYT/MonkeModManager/releases/) the official gorilla tag modding community recommends this
+2. [MonkeModManager](https://github.com/NgbatzYT/MonkeModManager/releases/) the official gorilla tag modding community recommends
 
 Author: NgBatz
 
