@@ -6,10 +6,6 @@ The way mods can be installed is something called Beplnex which is a modding plu
 
 I AM NOT RESPONSIBLE FOR YOUR BANS AND NEITHER ARE THE MOD DEVELOPERS IT IS AT YOUR OWN RISK
 
-**Table of Contents**
-
-
-[TOC]
 
 # Buy Gorilla tag
 In order for you to get gorilla tag your gonna need to buy it on steam obvisually since it is not free but you could also find someone who sells cheap gorilla tag accounts but is recommended to just get it from steam
@@ -111,9 +107,9 @@ Sakuraa Pricing
                     
 Subscriptions  | Pricing
 ------------- | -------------
-Basic Pack  | 6.99
-Creator Pack  | $9.99 
-Master Pack  | $15.99 
+Basic Cell  | 6.99
+Creator Cell  | $9.99 
+Master Cell  | $15.99 
 
 2. [Excalibur Client](https://excaliburgtag.com/)
 Free version but also pretty expensive and also requires discord
@@ -133,7 +129,7 @@ If you wanna make your own mods there is some great templates out there but most
 
 Im just gonna show you some basic stuff since im not a great coder in C# but for gorilla tag theres lots of stuff.
 
-#What is GTPlayer?
+####What is GTPlayer?
 
 GTPlayer is basically the player position and rotation of ur gorilla tag player and stores just movement value and movement etc.
 
@@ -148,6 +144,8 @@ Basic SpeedBoost Example
         GTPlayer.Instance.maxJumpSpeed = 9f; 
 ```
 This is saying that it changed the Players maxspeed making it faster as GTPlayer is saying the player and instance finds stuff in GTPlayer and you can change the value of the maxspeed
+
+if you want more tutorials on how to make menus [DynamicGaming](https://www.youtube.com/@DynamicGamingOfficial) has great tutorials to follow
 
 # To contact me through these if you need help with anything
 Discord ID: 
