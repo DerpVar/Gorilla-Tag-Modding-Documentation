@@ -63,23 +63,30 @@ Download the ZIP and put it in your Gorilla Tag Folder
 
 Now you can choose what mods you want this can be tricky or you could use youtube but there is ways to choose mods
 
-# MonkeForge
-MonkeForge is based on curseforge a manager where you can install minecraft mods easily this is just a gorilla tag version you would like to see the website click this --->[MonkeForge](https://monkeforge.org/browse?sort=newest&page=1&limit=12) Monkeforge has legal mods but if you would want illegal mods checks the next part.
 
 # How to install Mods through your Folder
 Put the mod that u got for example a .dll file and drag go to your plugins folder and put the .dll into ur plugins and thats it.
+
+# MonkeForge
+MonkeForge is based on curseforge a manager where you can install minecraft mods easily this is just a gorilla tag version you would like to see the website click this --->[MonkeForge](https://monkeforge.org/browse?sort=newest&page=1&limit=12) Monkeforge has legal mods but if you would want illegal mods checks the next part.
 
 # Illegal Menus/Loaders
 If you want a gorilla tag menu which is illegal the way to find menus is through youtube or recommend by someone but one way to get them is from Loaders that inject the menu mid game
 
 1. [Wyvern](https://wyvern.software)
+
 Windows: Supported
+
 Mac: Not Supported
+
 Linux: Supported
 
 2. [Solas](https://getsolastoday.pages.dev) 
+
 Windows: Supported
+
 Mac: Not Supported
+
 Linux: Not Supported
 
 # Illegal Menu suggestions
